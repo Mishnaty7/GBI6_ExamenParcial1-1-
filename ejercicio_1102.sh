@@ -9,7 +9,7 @@ cut -f 1 data/Gesquiere2011_data.csv | grep -c -w 27
 
 #Write a script taking as input the file name and the ID of the individual,and returning the number of records for that ID.
 
-cut -f 1 data/Gesquiere2011_data.csv | grep -w -c 27
+cut -f 1 data/Gesquiere2011_data.csv | grep -w -c 50
 
 #Write a script that returns the number of times each individual was sampled.
 
