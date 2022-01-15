@@ -1,5 +1,5 @@
 # GBI6_ExamenParcial1
-Aquí se resolverá el examen parcial 1 de bioinformática
+Aquí se resolverá el examen parcial 1 de bioinformática (Hola profe, disculpe todos mis archivos están en master)
 #  Universidad Regional Amazónica Ikiam  
 ## Bioinformática - Examen Parcial 1
 *Datos personales:*
