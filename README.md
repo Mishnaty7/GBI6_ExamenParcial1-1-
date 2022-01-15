@@ -34,8 +34,12 @@ Aquí se resolverá el examen parcial 1 de bioinformática
 
 *Explicación de la data utilizada:*
 
-Buzzard2015_data para realizar el ejercicio 4 
-Gesquiere2011_data para realizar el ejercicio 5 
-10080Table1.xls para realizar la pregunta 6 
-Información de la tabla que se encuentra en https://www.nature.com/scitable/topicpage/eukaryotic-genome-complexity-437/ para realizar la pregunta 7.
-Información de la tabla que se encuentra en http://www.russelllab.org/aas/aas.html para realizar la pregunta 8
+- Buzzard2015_data para realizar el ejercicio 4 
+
+- Gesquiere2011_data para realizar el ejercicio 5 
+
+- 10080Table1.xls para realizar la pregunta 6 
+
+- Información de la tabla que se encuentra en https://www.nature.com/scitable/topicpage/eukaryotic-genome-complexity-437/ para realizar la pregunta 7.
+
+- Información de la tabla que se encuentra en http://www.russelllab.org/aas/aas.html para realizar la pregunta 8
